@@ -5,5 +5,4 @@
 /.figmagic
 dist/
 node_modules/
-.vscode/
 .dccache
