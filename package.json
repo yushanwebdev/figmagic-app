@@ -1,23 +1,21 @@
 {
-  "name": "acmecorp-potted-plants-app",
+  "name": "figmagic-app",
   "version": "1.0.0",
-  "description": "An example application meant to use a React component library generated and/or composed with Figmagic. Made for The newline Guide to React Component Design Systems with Figmagic.",
+  "description": "An example application meant to use a React component library generated and/or composed with Figmagic.",
   "keywords": [
     "acmecorp",
     "example-app",
     "figmagic",
-    "newline",
     "course-material"
   ],
-  "author": "Mikael Vesavuori",
-  "license": "MIT",
+  "author": "Yushan Fernando",
   "main": "src/index.jsx",
   "scripts": {
     "start": "npx webpack serve --mode development --open --hot",
     "build": "npx webpack --mode production"
   },
   "dependencies": {
-    "@mikaelvesavuori/acmecorp-potted-plants-components": "latest",
+    "@yushanwebdev/figmagic-component-library": "latest",
     "prop-types": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
