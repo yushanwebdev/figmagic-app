@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1508013861974-9f6347163ebe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=30",
+      "heading": "Monstera",
+      "description": "Monstera is a genus of 45 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas.",
+      "price": "125",
+      "id": "monstera"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1592221069981-9b83d4a73125?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=30",
+      "heading": "Lush big leaf",
+      "description": "Bracken is a genus of large, coarse ferns in the family Dennstaedtiaceae.",
+      "price": "150",
+      "id": "lush_big_leaf"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1561641250-c06551cf3b02?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=30",
+      "heading": "Exclusive bonsai",
+      "description": "Bonsai is a Japanese version of the original traditional Chinese art penjing or penzai.",
+      "price": "250",
+      "id": "exclusive_bonsai"
+    }
+  ]
+}
